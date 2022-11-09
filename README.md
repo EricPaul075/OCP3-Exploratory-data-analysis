@@ -2,7 +2,7 @@
 Exploratory data analysis to propose innovative application ideas related to food
 
 L'objet de ce projet est de réaliser une analyse exploratoire de données d'OpenFoodFacts pour proposer une idée innovation en lien avec l'alimentation.
-L'idée proposée consiste à proposer à l'utilisateur une liste classée des meilleurs produits disponibles en France en réponse à une requête combinant les apports nutritionnels attendus (vitamines et minéraux), ceux à éviter (sel, sucre, graisses) et ceux à exclures (allergènes, additifs).
+L'idée proposée consiste à retourner à l'utilisateur une liste classée des meilleurs produits disponibles en France en réponse à une requête combinant les apports nutritionnels attendus (vitamines et minéraux), ceux à éviter (sel, sucre, graisses) et ceux à exclure (allergènes, additifs).
 
 L'analyse exploratoire comprend:
 - La structuration des features pour faciliter l'appréhension du jeu de données et le filtrage pour ne garder que les données utiles à l'application ;
